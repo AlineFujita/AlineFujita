@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AlineFujita;
-- 👀 I’m interested in games, music and anime;
-- 🌱 I’m currently learning programming & japanese.
+- 👀 I’m interested in games & technology;
+- 🌱 I’m currently learning to program & japanese.
